@@ -14,4 +14,4 @@ test kl 13:35
 
 [Conversion](/thank-you)
 
-[Purchase Complete](/purchase-complete)
+[Purchase Complete](/purchase_complete)
