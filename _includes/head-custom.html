@@ -7,3 +7,34 @@
 
   gtag('config', 'G-V8P0D7E75M');
 </script>
+
+<script>
+function sendReadEvent(title, number_of_characters){
+gtag('event', 'read_article', {
+    "author": "Shahrzad P",
+    "title": title,
+    "number_of_characters": number_of_characters,
+});
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+    
+    //Skickar event vid klick på artikel 1
+    document.getElementById("read-article-1").addEventListener("click", () => {
+    sendReadEvent("Article 1", 50)
+    })
+
+    //Skickar event vid klick på artikel 2
+    document.getElementById("read-article-2").addEventListener("click", () => {
+    sendReadEvent("Article 2", 100)
+        })
+
+    //Skickar event vid klick på artikel 3
+    document.getElementById("read-article-3").addEventListener("click", () => {
+    sendReadEvent("Article 3", 150)
+    });
+    
+});
+  
+  console.log("2023-01-30")
+</script>
