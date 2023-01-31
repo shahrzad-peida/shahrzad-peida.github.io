@@ -9,9 +9,9 @@
 </script>
 
 <script>
-function sendReadEvent(title, reading_time){
+function sendReadEvent(title, reading_time, author){
 gtag('event', 'read_article', {
-    "author": "Shahrzad P",
+    "author": author,
     "artikelnamn": title,
     "reading_time": reading_time,
 });
@@ -24,17 +24,17 @@ const readArticle1Button = document.getElementById("read-article-1");
 if(readArticle1Button){
     //Skickar event vid klick på artikel 1
     readArticle1Button.addEventListener("click", () => {
-        sendReadEvent("Article 1", 2)
+        sendReadEvent("Article 1", 2, "Shahrzad P.")
         })
     
         //Skickar event vid klick på artikel 2
         document.getElementById("read-article-2").addEventListener("click", () => {
-        sendReadEvent("Article 2", 3)
+        sendReadEvent("Article 2", 3, "Karin S.")
             })
     
         //Skickar event vid klick på artikel 3
         document.getElementById("read-article-3").addEventListener("click", () => {
-        sendReadEvent("Article 3", 5)
+        sendReadEvent("Article 3", 5, "Gustav G.")
         });
 }
 
