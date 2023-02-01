@@ -6,7 +6,8 @@ Lorem ipsum dolor sit amet, impetus dissentias at vim, brute labore voluptua at 
 
 Graecis intellegat sit cu. Sed ad detraxit electram expetendis. Vim ea assum fuisset, vel movet periculis in. Quot discere democritum est cu, at eam minim placerat salutandi, ferri salutatus vel ex. Vide senserit dignissim ei per. Est ne nihil gubergren, mea ea fastidii molestie. Nostrud volumus te mei.
 
-<button id="read-article-1">Read article 1</button> <button class="order" data-ordervalue="50">Beställ</button>
+<button><a href="/thank-you" id="read-article-1" class="order" data-ordervalue="200">Beställ
+</a></button>
 
 ## Article 2
 
