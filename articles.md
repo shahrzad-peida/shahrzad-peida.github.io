@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet, impetus dissentias at vim, brute labore voluptua at 
 
 Graecis intellegat sit cu. Sed ad detraxit electram expetendis. Vim ea assum fuisset, vel movet periculis in. Quot discere democritum est cu, at eam minim placerat salutandi, ferri salutatus vel ex. Vide senserit dignissim ei per. Est ne nihil gubergren, mea ea fastidii molestie. Nostrud volumus te mei.
 
-<button id="read-article-1">Read article 1</button>
+<button id="read-article-1">Read article 1</button> <button id="order">Beställ</button>
 
 ## Article 2
 
@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, impetus dissentias at vim, brute labore voluptua at 
 
 Graecis intellegat sit cu. Sed ad detraxit electram expetendis. Vim ea assum fuisset, vel movet periculis in. Quot discere democritum est cu, at eam minim placerat salutandi, ferri salutatus vel ex. Vide senserit dignissim ei per. Est ne nihil gubergren, mea ea fastidii molestie. Nostrud volumus te mei.
 
-<button id="read-article-2">Read article 2</button>
+<button id="read-article-2">Read article 2</button> <button id="order">Beställ</button>
 
 ## Article 3
 
@@ -22,4 +22,4 @@ Lorem ipsum dolor sit amet, impetus dissentias at vim, brute labore voluptua at 
 
 Graecis intellegat sit cu. Sed ad detraxit electram expetendis. Vim ea assum fuisset, vel movet periculis in. Quot discere democritum est cu, at eam minim placerat salutandi, ferri salutatus vel ex. Vide senserit dignissim ei per. Est ne nihil gubergren, mea ea fastidii molestie. Nostrud volumus te mei.
 
-<button id="read-article-3">Read article 3</button>
+<button id="read-article-3">Read article 3</button> <button id="order">Beställ</button>
