@@ -18,8 +18,8 @@ test kl 13:35
 
 [Articles](/articles)
 
-<a href="/thank-you" class="sub-link" data-subvalue="50">Subscribe 50!
-</a>
+<button><a href="/thank-you" class="sub-link" data-subvalue="50">Subscribe 50!
+</a></button>
 <br>
 <a href="/thank-you" class="sub-link" data-subvalue="250">Subscribe 250!
 </a>
