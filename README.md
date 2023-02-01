@@ -17,3 +17,12 @@ test kl 13:35
 [Purchase Complete](/purchase_complete)
 
 [Articles](/articles)
+
+<a href="/thank-you" data-subvalue="50">Subscribe 50!
+</a>
+<br>
+<a href="/thank-you" data-subvalue="250">Subscribe 250!
+</a>
+<br>
+<a href="/thank-you" data-subvalue="500">Subscribe 500!
+</a>
