@@ -20,6 +20,7 @@ Graecis intellegat sit cu. Sed ad detraxit electram expetendis. Vim ea assum fui
 
 <button id="read-article-2">Read article 2</button> 
 <br>
+
 <button><a href="/thank-you" class="sub-link" data-subvalue="100">Beställ!
 </a></button>
 
@@ -31,5 +32,6 @@ Graecis intellegat sit cu. Sed ad detraxit electram expetendis. Vim ea assum fui
 
 <button id="read-article-3">Read article 3</button> 
 <br>
+
 <button><a href="/thank-you" class="sub-link" data-subvalue="200">Beställ!
 </a></button>
